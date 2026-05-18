@@ -69,12 +69,10 @@ $ cat /etc/vo1ic/profile.conf
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🤖 AI & Tools
+### Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_AI-7B00FF?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qwen-FF6B00?style=for-the-badge&logo=alibabadotcom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor_IDE-00BFFF?style=for-the-badge&logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
@@ -94,8 +92,6 @@ $ cat /etc/vo1ic/profile.conf
 ## `> cat ./github-stats.json`
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vo1ic&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=7B00FF&text_color=ffffff&hide_border=false"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vo1ic&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00ff41&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
 
