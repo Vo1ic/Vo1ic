@@ -12,7 +12,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=500&color=7B00FF&center=true&vCenter=true&width=700&lines=Building+systems+that+think+%F0%9F%A4%96+%7C+Breaking+systems+for+fun+%F0%9F%94%93+%7C+Shipping+code+at+3AM+%E2%9A%A1" alt="Sub-title" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=500&color=7B00FF&center=true&vCenter=true&width=700&lines=Building+systems+that+think+%F0%9F%A4%96+%7C+Breaking+systems+for+fun+%F0%9F%94%93" alt="Sub-title" />
 
 <br/>
 
